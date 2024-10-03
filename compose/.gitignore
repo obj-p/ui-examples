@@ -1,0 +1,11 @@
+# Android Studio/IDEA
+*.iml
+.idea
+.kotlin/
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
